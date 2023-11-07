@@ -18,3 +18,11 @@ C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\DoublyLinkedListW
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe.config
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\bin\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.AssemblyReference.cache
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.SuggestedBindingRedirects.cache
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.csproj.CoreCompileInputs.cache
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\DoublyLinkedListWithErrors\obj\Debug\DoublyLinkedListWithErrors.pdb

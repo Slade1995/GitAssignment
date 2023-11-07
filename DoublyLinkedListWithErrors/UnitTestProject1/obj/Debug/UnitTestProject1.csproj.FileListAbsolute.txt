@@ -16,3 +16,21 @@ C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\UnitTestProject1\
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\slade\Desktop\Data Testing\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\DoublyLinkedListWithErrors.exe
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\DoublyLinkedListWithErrors.pdb
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\DoublyLinkedListWithErrors.exe.config
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\slade\Desktop\myproject\DoublyLinkedListWithErrors\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
